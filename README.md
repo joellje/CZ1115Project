@@ -28,7 +28,7 @@ https://entuedu-my.sharepoint.com/:f:/g/personal/dyang009_e_ntu_edu_sg/Er-4nHfuK
 - Pandas
 - Seaborn
 - Matplotlib
-- Sklearn
+- Sklearn\
   -> Linear regression\
   -> NearestNeighbours\
   -> Ordinal Encoder\
