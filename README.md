@@ -17,7 +17,7 @@ We answer the following question which is valuable to fashion retailers. Which f
 
 - @Joel - Data Wrangling, EDA, General Flow
 - @Daniel - Neural Networks, Machine Learning, Hybrid Recommender
-- @Rrhys - Data Visualization, Data Extraction, EDA
+- @Rhys - Data Visualization, Data Extraction, EDA
 
 ## Link to Dataset and Extract Features:
 
