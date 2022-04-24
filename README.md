@@ -37,6 +37,8 @@ https://entuedu-my.sharepoint.com/:f:/g/personal/dyang009_e_ntu_edu_sg/Er-4nHfuK
 
 ### Slides
 
+https://entuedu-my.sharepoint.com/:p:/g/personal/joel0046_e_ntu_edu_sg/Ef_ZkO9owwZDofx46jAsHUsBZ-LJ8go7nqujdIuEw_C01Q?e=AwEggx
+
 ### articlesEDA.ipynb
 
 Individual Exploratory Data Analysis done on the articles sold by the fashion retailer.
@@ -59,15 +61,15 @@ Notebook detailing the full flow of how we answer the question: Which fashion ar
 
 ### feature importance & machine learning model.ipynb
 
-Notebook details the trianing process of ResNet50 and Xception models and the extraction of respective feature maps. A few examples are used to demonstrate the reccomendation capabilities of each approach.
+Notebook details the training process of ResNet50 and Xception models and the extraction of respective feature maps. A few examples are used to demonstrate the reccomendation capabilities of each approach.
 
 ## What did we learn from this project?
 
 - The selected fashion retail company targets young adults and older mature adults
-- Ladieswear and Teens product categories are their main revenue drivers. Average sales transaction quantum is small.
-- Revenue and purchase transactions trends are consistent and steady
+- Ladieswear and Divided (Teens) product categories are their main revenue drivers. Average sales transaction quantum is relatively small.
+- Revenue and purchase transactions trends are cyclical, consistent and steady
 - We developed a full data pipeline to make use of the available dataset effectively and efficiently
-- Using hybrid filtering, we determine when a customer will make a purchase next and what they might purchase given their spending habits
+- Using hybrid filtering (content based and collaborative filtering), we determine when a customer will make a purchase next and what they might purchase given their spending habits and article preferences
 - Leveraging a deep learning network ResNet, we use CNN to train the model on product images and KNN for evaluating an article recommendation
 
 ## References
