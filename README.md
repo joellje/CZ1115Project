@@ -19,7 +19,7 @@ We answer the following question which is valuable to fashion retailers. Which f
 - @Daniel - Neural Networks, Machine Learning, Hybrid Recommender
 - @Rhys - Data Visualization, Data Extraction, EDA
 
-## Link to Dataset and Extract Features:
+## Link to Dataset and Extracted Features from CNN:
 
 https://entuedu-my.sharepoint.com/:f:/g/personal/dyang009_e_ntu_edu_sg/Er-4nHfuKIRFqCI4r8eYoSwBIIIgb25CXmITO1ppEGmPuQ?e=FDM96Y
 
@@ -29,15 +29,15 @@ https://entuedu-my.sharepoint.com/:f:/g/personal/dyang009_e_ntu_edu_sg/Er-4nHfuK
 - Seaborn
 - Matplotlib
 - Sklearn
-  -> Linear regression
-  -> NearestNeighbours
-  -> Ordinal Encoder
-  -> SelectKBest
-  -> chi2
-  -> pairwise distance
+  -> Linear regression\
+  -> NearestNeighbours\
+  -> Ordinal Encoder\
+  -> SelectKBest\
+  -> chi2\
+  -> pairwise distance\
 - Keras  
-  -> ResNet50
-  -> Xception
+  -> ResNet50\
+  -> Xception\
 
 ## Files contained in this folder:
 
