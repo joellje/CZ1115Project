@@ -13,6 +13,12 @@ We answer the following question which is valuable to fashion retailers. Which f
 - @Daniel Yang
 - @Joel Lim
 
+## Contributions
+
+@Joel - Data Wrangling, EDA, General Flow
+@Daniel - Neural Networks, Machine Learning, Hybrid Recommender
+@Rrhys - Data Visualization, Data Extraction, EDA
+
 ## Link to Dataset:
 
 https://entuedu-my.sharepoint.com/:f:/g/personal/dyang009_e_ntu_edu_sg/Er-4nHfuKIRFqCI4r8eYoSwBIIIgb25CXmITO1ppEGmPuQ?e=FDM96Y
