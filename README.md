@@ -37,6 +37,8 @@ https://entuedu-my.sharepoint.com/:f:/g/personal/dyang009_e_ntu_edu_sg/Er-4nHfuK
 
 ### Slides
 
+The slides acts as a summary of our project. It covers the most important parts of our project, as well as areas in which we wish to emphasize.
+
 ### articlesEDA.ipynb
 
 Individual Exploratory Data Analysis done on the articles sold by the fashion retailer.
