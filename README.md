@@ -23,15 +23,15 @@ https://entuedu-my.sharepoint.com/:f:/g/personal/dyang009_e_ntu_edu_sg/Er-4nHfuK
 - Seaborn
 - Matplotlib
 - Sklearn
-  -> Linear regression
-  -> NearestNeighbours
-  -> Ordinal Encoder
-  -> SelectKBest
-  -> chi2
-  -> pairwise distance
-- Keras  
-  -> ResNet50
-  -> Xception
+  - Linear regression
+  - NearestNeighbours
+  - Ordinal Encoder
+  - SelectKBest
+  - chi2
+  - pairwise distance
+- Keras
+  - ResNet50
+  - Xception
 
 ## Files contained in this folder:
 
