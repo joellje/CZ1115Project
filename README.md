@@ -9,17 +9,11 @@ We answer the following question which is valuable to fashion retailers. Which f
 
 ## Contributors
 
-- @Rhys Lie
-- @Daniel Yang
-- @Joel Lim
+- @Rhys Lie- Data Visualization, Data Extraction, Data Wrangling, EDA, General Flow
+- @Daniel Yang- Neural Networks, Machine Learning, Hybrid Recommender
+- @Joel Lim- Data Visualization, Data Extraction, Data Wrangling, EDA, General Flow
 
-## Contributions
-
-- @Joel - Data Wrangling, EDA, General Flow
-- @Daniel - Neural Networks, Machine Learning, Hybrid Recommender
-- @Rhys - Data Visualization, Data Extraction, EDA
-
-## Link to Dataset and Extracted Features from our CNN:
+## Link to Dataset:
 
 https://entuedu-my.sharepoint.com/:f:/g/personal/dyang009_e_ntu_edu_sg/Er-4nHfuKIRFqCI4r8eYoSwBIIIgb25CXmITO1ppEGmPuQ?e=FDM96Y
 
@@ -28,15 +22,15 @@ https://entuedu-my.sharepoint.com/:f:/g/personal/dyang009_e_ntu_edu_sg/Er-4nHfuK
 - Pandas
 - Seaborn
 - Matplotlib
-- Sklearn\
-  -> Linear regression\
-  -> NearestNeighbours\
-  -> Ordinal Encoder\
-  -> SelectKBest\
-  -> chi2\
+- Sklearn
+  -> Linear regression
+  -> NearestNeighbours
+  -> Ordinal Encoder
+  -> SelectKBest
+  -> chi2
   -> pairwise distance
 - Keras  
-  -> ResNet50\
+  -> ResNet50
   -> Xception
 
 ## Files contained in this folder:
@@ -44,8 +38,6 @@ https://entuedu-my.sharepoint.com/:f:/g/personal/dyang009_e_ntu_edu_sg/Er-4nHfuK
 ### Slides
 
 The slides acts as a summary of our project. It covers the most important parts of our project, as well as areas in which we wish to emphasize.
-
-https://entuedu-my.sharepoint.com/:p:/g/personal/joel0046_e_ntu_edu_sg/Ef_ZkO9owwZDofx46jAsHUsBZ-LJ8go7nqujdIuEw_C01Q?e=AwEggx
 
 ### articlesEDA.ipynb
 
